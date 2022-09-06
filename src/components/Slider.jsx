@@ -5,13 +5,14 @@ import { sliderItems } from "../data";
 import { mobile } from "../responsive";
 
 const Container = styled.div`
+  padding-top: 25px;
+  margin-bottom: 25px;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   position: relative;
   overflow: hidden;
-  ${mobile({ display: "none" })}
-`;
+  ${mobile({ display: "none" })}`;
 
 const Arrow = styled.div`
   width: 50px;

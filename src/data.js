@@ -1,24 +1,24 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/XsdmR2c/1.png",
+    img: "https://img.olympicchannel.com/images/image/private/t_16-9_3200/primary/ojpcg2xlihwx84ipvrcw",
     title: "SUMMER SALE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    desc: "DON'T MISS OUT ON THE SUMMER WAVES. SUMMER DEAL 30% OFF ALL FIRST TIME CUSTOMERS.",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/DG69bQ4/2.png",
-    title: "AUTUMN COLLECTION",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    img: "https://static.wixstatic.com/media/96dded_64c0532dff9a41d3b0ff3d65dad16245~mv2.jpg/v1/fill/w_640,h_404,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/96dded_64c0532dff9a41d3b0ff3d65dad16245~mv2.jpg",
+    title: "AUTUMN SALE",
+    desc: "DON'T MISS OUT ON THE AUTOMN SALE. BUY ONE BOARD GET SECOND 50% OFF!",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/cXFnLLV/3.png",
-    title: "LOUNGEWEAR LOVE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-    bg: "fbf0f4",
+    img: "https://www.salomon.com/sites/default/files/homepage/secondary/01_Home-SecondaryPush_Desktop_11.jpg?fit=cover&orientation=1&optimize=low&bg-color=f5f5f5&format=pjpg&auto=webp&width=885&dpr=1.25",
+    title: "WINTER SALE",
+    desc: "DON'T MISS OUT ON THE WINTER SALE! ALL GEAR 15% OFF.",
+    bg: "dbf1fd",
   },
 ];
 
