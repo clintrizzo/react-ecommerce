@@ -25,29 +25,29 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "SHIRT STYLE!",
+    img: "https://cdn.shopify.com/s/files/1/0065/9324/9398/products/m9081rmp_rvca_wg_anw_frt1_1024x1024.jpg?v=1588204163",
+    title: "Mens Clothing!",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "LOUNGEWEAR LOVE",
+    img: "https://www.tactics.com/a/dk1o/2/spitfire-womens-bighead-t-shirt-black-columbia-blue.webp",
+    title: "Womens Clothing!",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    title: "LIGHT JACKETS",
+    img: "https://cdn.shopify.com/s/files/1/0065/9324/9398/products/bakerbrandlogoblkwht8.125_1024x1024.jpg?v=1585948199",
+    title: "Boards",
   },
 ];
 
 export const popularProducts = [
   {
     id:1,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img:"https://cdn.shopify.com/s/files/1/0065/9324/9398/products/sportbk_1024x1024.png?v=1585260590",
   },
   {
     id:2,
-    img:"",
+    img:"https://cdn.shopify.com/s/files/1/0065/9324/9398/products/SC_VortexHand_LS_Black_Back_448x448_061b703b-4d41-4f2c-adad-86e8caa4ff4b_1024x1024.jpg?v=1587932553",
   },
   {
     id:3,
@@ -55,22 +55,22 @@ export const popularProducts = [
   },
   {
     id:4,
-    img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img:"https://cdn.shopify.com/s/files/1/0065/9324/9398/products/35035274Y_BLK_large_85d21893-08fb-4000-bd45-c59767d4fe00_1024x1024.jpg?v=1588114010",
   },
   {
     id:5,
-    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img:"https://www.tactics.com/a/dj33/2/vans-womens-lizzie-armanto-skate-chino-pants-burro.webp",
   },
   {
     id:6,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img:"https://cdn.shopify.com/s/files/1/2468/2881/products/1_fed3049d-678b-49a6-9c9a-1395415bfaad_2000x2000.png?v=1655954968",
   },
   {
     id:7,
-    img:"",
+    img:"https://cdn.shopify.com/s/files/1/0065/9324/9398/products/fists_1024x1024.jpg?v=1586118603",
   },
   {
     id:8,
-    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img:"https://cdn.shopify.com/s/files/1/0624/1914/0823/products/bbc9bc093504e61952178a742987cd61_1600x.png?v=1658096065",
   },
 ]

@@ -29,6 +29,8 @@ const Info = styled.div`
 
 const Title = styled.h1`
     color:white;
+    background-color: black;
+    padding: 10px;
     margin-bottom: 20px;
 `;
 
